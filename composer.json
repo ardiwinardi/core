@@ -2,6 +2,6 @@
     "name": "asep-ardi/core",
     "description": "Core for MVC project",
     "require": {
-        "php": "^5.3.3 || ^7.0",
+        "php": "^5.3.3 || ^7.0"
     }
 }
